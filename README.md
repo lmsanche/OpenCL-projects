@@ -7,3 +7,5 @@ Links about OpenCL projects
 https://github.com/CRVI/OpenCLIPP
 
 - Set of OpenCL microbenchmarks https://github.com/PeterTh/uCLbench
+- webcl-ocl-nvidia https://github.com/wolfviking0/webcl-ocl-nvidia
+
