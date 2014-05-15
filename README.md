@@ -9,3 +9,4 @@ https://github.com/CRVI/OpenCLIPP
 - webcl-ocl-nvidia https://github.com/wolfviking0/webcl-ocl-nvidia
 - A SPIR interpreter and virtual OpenCL device simulator. https://github.com/jrprice/Oclgrind
 - SPIR  Kronos Group https://github.com/KhronosGroup/SPIR
+- OpenCL integration for Python https://github.com/pyopencl/pyopencl
